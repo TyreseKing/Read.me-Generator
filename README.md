@@ -1,4 +1,4 @@
-# Node-Readme-Generatora
+# Node-Readme-Generator
 
 ## Table of Contents
 * [Description](#description)
@@ -17,7 +17,7 @@ First run "npm i" at the root, then run "node index.js"
 ## Contribution 
 Tyrese King
 ## test
-This application was not tested
+This application was tested
 
 ## License
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
