@@ -20,3 +20,5 @@ Tyrese King
 node.js is needed to run this app
 ## License
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Email
+Tyreseking11@gmail.com
