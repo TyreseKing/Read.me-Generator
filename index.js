@@ -40,6 +40,11 @@ const questions = [
         message: 'What license is needed for this application?',
         choices: ["None", "MIT", "Apache", "Boost"]
     },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'what is your email?'
+    }
 ];
 
 

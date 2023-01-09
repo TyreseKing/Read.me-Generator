@@ -1,4 +1,4 @@
-# Node-Readme-Generator
+# Node Readme Generator
 
 ## Table of Contents
 * [Description](#description)
@@ -9,15 +9,14 @@
 * [License](#license)
 
 ## Description
-This is a Node.JS application that takes advantage of inquirer to prompt the user questions, based on their input a README.md will be generated. 
+This is a Node.js Application that takes advantage of the Inquirer to prompt the user questions based on their input for a README.md to be generated.
 ## Installation
-Inquirer
+the following dependencies installed to run this app is: Inquirer
 ## Usage
-First run "npm i" at the root, then run "node index.js"
+run Node index.js in the terminal and you will be prompted with questions
 ## Contribution 
 Tyrese King
 ## test
-This application was tested
-
+node.js is needed to run this app
 ## License
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

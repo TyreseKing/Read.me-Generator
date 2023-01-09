@@ -59,6 +59,8 @@ ${data.contribution}
 ## test
 ${data.test}
 ${renderLicenseSection(data)}
+## email
+${data.email}
 `;
 }
 
