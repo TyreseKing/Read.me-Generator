@@ -24,4 +24,5 @@ node.js is needed to run this app
 https://github.com/TyreseKing
 ## Email
 Tyreseking11@gmail.com
-gi
+
+https://drive.google.com/file/d/1XOinXMYLWzxOy8giEyxjYmUATfTUHdqO/view
