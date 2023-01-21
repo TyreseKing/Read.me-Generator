@@ -56,10 +56,12 @@ ${data.installation}
 ${data.usage}
 ## Contribution 
 ${data.contribution}
-## test
+## Test
 ${data.test}
 ${renderLicenseSection(data)}
-## email
+## Github
+${data.github}
+## Email
 ${data.email}
 `;
 }

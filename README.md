@@ -16,9 +16,12 @@ the following dependencies installed to run this app is: Inquirer
 run Node index.js in the terminal and you will be prompted with questions
 ## Contribution 
 Tyrese King
-## test
+## Test
 node.js is needed to run this app
 ## License
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Github
+https://github.com/TyreseKing
 ## Email
 Tyreseking11@gmail.com
+gi
